@@ -40,6 +40,3 @@ Contract screenshot:
 - **Author**: tThuvu0_0
 - **Skills**: Rust, Soroban SDK, Smart Contract Development, Blockchain Identity Solutions  
 - **Focus**: Building secure identity verification and trading authorization systems on blockchain, ensuring privacy and preventing data exploitation.
-- **Author**: JK  
-- **Skills**: Rust, Soroban SDK, Smart Contract Development, Blockchain Identity Solutions  
-- **Focus**: Building secure identity verification and trading authorization systems on blockchain, ensuring privacy and preventing data exploitation.
